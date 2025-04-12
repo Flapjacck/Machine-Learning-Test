@@ -12,3 +12,6 @@ matplotlib>=3.4.0     # Plotting library for creating static, animated, and inte
 
 # Machine Learning
 scikit-learn>=1.0.0   # Traditional machine learning algorithms for classification, regression, clustering
+
+# Progress bar and utilities
+tqdm>=4.62.0          # Smart progress meter for loops and iterations
